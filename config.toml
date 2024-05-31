@@ -1,3 +1,7 @@
-baseURL = "https://rrohandas.com/"
+baseURL = 'https://example.org/'
 languageCode = "en-us"
 title = "#include"
+[params]
+  subtitle = 'everything infosec'
+  [params.contact]
+    email = 'general@rrohandas.com'
